@@ -3,7 +3,7 @@
 **Continuous-time microsimulation of the partnership and childbearing trajectories
 of migrants and their descendants in the United Kingdom**
   
-  This repository contains code for projecting life courses using continuous-time
+This repository contains code for projecting life courses using continuous-time
 demographic microsimulation. In particular, it reproduces synthetic cohort projections
 of the partnership and parity trajectories of first- and second-generation migrants
 in the UK, as shown in Figure 2 of Ibbetson et al. (2026).
