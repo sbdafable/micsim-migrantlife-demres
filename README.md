@@ -6,7 +6,7 @@ of migrants and their descendants in the United Kingdom**
 This repository contains code for projecting life courses using continuous-time
 demographic microsimulation. In particular, it reproduces synthetic cohort projections
 of the partnership and parity trajectories of first- and second-generation migrants
-in the UK, as shown in Figure 2 of Ibbetson et al. (2026).
+in the UK, as shown in Figure 2 of Ibbetson et al. (forthcoming in Demographic Research).
 
 It uses fastMicSim, developed by Sabine Zinn, which delegates simulation to a Java
 engine (MicCore.jar) to substantially reduce runtimes compared to base-R MicSim.
