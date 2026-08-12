@@ -1,0 +1,321 @@
+﻿sex,state,name,estimate
+female,single,age_16_19,-0.81555733
+female,single,age_20_24,0
+female,single,age_25_29,0.179907813
+female,single,age_30_34,-0.121541728
+female,single,age_35_39,-0.67405147
+female,single,age_40_44,-1.099784576
+female,single,age_45_49,-2.372456207
+female,single,"C#, Native",2.240479131
+female,single,"C#1G, EW",1.956797664
+female,single,"C#1G, India",-0.371604552
+female,single,"C#1G, Pakistan",-0.762628457
+female,single,"C#1G, Bangladesh",-1.501214648
+female,single,"C#1G, Caribbean",1.376766364
+female,single,"C#1G, African",1.104948174
+female,single,"C#1G, Other",1.349548683
+female,single,"C#2G, EW",2.083140442
+female,single,"C#2G, India",0.582514458
+female,single,"C#2G, Pakistan",-0.749731924
+female,single,"C#2G, Bangladesh",-0.922576949
+female,single,"C#2G, Caribbean",1.334591509
+female,single,"C#2G, African",1.203495891
+female,single,"C#2G, Other",1.576885795
+female,single,"M#, Native",0
+female,single,"M#1G, EW",0.704034696
+female,single,"M#1G, India",2.022647753
+female,single,"M#1G, Pakistan",2.43312464
+female,single,"M#1G, Bangladesh",2.792214251
+female,single,"M#1G, Caribbean",0.475980109
+female,single,"M#1G, African",1.104948174
+female,single,"M#1G, Other",1.25826921
+female,single,"M#2G, EW",0.1898738
+female,single,"M#2G, India",1.597476661
+female,single,"M#2G, Pakistan",2.01106888
+female,single,"M#2G, Bangladesh",1.33620429
+female,single,"M#2G, Caribbean",-0.693556864
+female,single,"M#2G, African",0.713289456
+female,single,"M#2G, Other",0.114831128
+female,single,"B#, Native",1.089801588
+female,single,"B#1G, EW",0.539731397
+female,single,"B#1G, India",0.599174356
+female,single,"B#1G, Pakistan",0.772701615
+female,single,"B#1G, Bangladesh",0.918703818
+female,single,"B#1G, Caribbean",1.936382188
+female,single,"B#1G, African",1.172899078
+female,single,"B#1G, Other",1.015013265
+female,single,"B#2G, EW",0.968963634
+female,single,"B#2G, India",0.282409698
+female,single,"B#2G, Pakistan",0.808412828
+female,single,"B#2G, Bangladesh",-0.2294309
+female,single,"B#2G, Caribbean",1.518374044
+female,single,"B#2G, African",0.605658781
+female,single,"B#2G, Other",0.938031871
+female,single,constant,-6.853172401
+female,single,cohort_80_03,0
+female,single,sep,0.298731799
+female,single,Parity_0,0
+female,single,Parity_1,0.211215899
+female,single,Parity_2,-0.086408904
+female,single,Parity_3+,-0.149028222
+male,single,age_16_19,-1.318245882
+male,single,age_20_24,0
+male,single,age_25_29,0.556070081
+male,single,age_30_34,0.453264305
+male,single,age_35_39,0.086604211
+male,single,age_40_44,-0.414542433
+male,single,age_45_49,-0.994296599
+male,single,"C#, Native",2.261714868
+male,single,"C#1G, EW",2.067428169
+male,single,"C#1G, India",-0.313174802
+male,single,"C#1G, Pakistan",-0.693372006
+male,single,"C#1G, Bangladesh",-1.104905751
+male,single,"C#1G, Caribbean",1.422092638
+male,single,"C#1G, African",1.332727168
+male,single,"C#1G, Other",1.244728781
+male,single,"C#2G, EW",2.154758292
+male,single,"C#2G, India",0.77925882
+male,single,"C#2G, Pakistan",0.390661405
+male,single,"C#2G, Bangladesh",-0.169008767
+male,single,"C#2G, Caribbean",1.653008574
+male,single,"C#2G, African",1.084289201
+male,single,"C#2G, Other",1.755654457
+male,single,"M#, Native",0
+male,single,"M#1G, EW",0.607025953
+male,single,"M#1G, India",1.756964242
+male,single,"M#1G, Pakistan",2.15540579
+male,single,"M#1G, Bangladesh",2.195550176
+male,single,"M#1G, Caribbean",1.214453292
+male,single,"M#1G, African",0.870103537
+male,single,"M#1G, Other",1.108826941
+male,single,"M#2G, EW",0.080538892
+male,single,"M#2G, India",1.396898439
+male,single,"M#2G, Pakistan",2.062619974
+male,single,"M#2G, Bangladesh",1.399607102
+male,single,"M#2G, Caribbean",-0.327992948
+male,single,"M#2G, African",0.702921753
+male,single,"M#2G, Other",0.105865188
+male,single,"B#, Native",0.434364146
+male,single,"B#1G, EW",0.201561117
+male,single,"B#1G, India",0.282808466
+male,single,"B#1G, Pakistan",0.875243712
+male,single,"B#1G, Bangladesh",-0.41175842
+male,single,"B#1G, Caribbean",1.357554294
+male,single,"B#1G, African",0.479237119
+male,single,"B#1G, Other",0.415679431
+male,single,"B#2G, EW",-0.699619883
+male,single,"B#2G, India",-0.283635471
+male,single,"B#2G, Pakistan",0.134728426
+male,single,"B#2G, Bangladesh",0.093355543
+male,single,"B#2G, Caribbean",0.959861202
+male,single,"B#2G, African",0.009774078
+male,single,"B#2G, Other",-0.088290813
+male,single,constant,-7.285216191
+male,single,cohort_80_03,0
+male,single,sep,0.381830669
+male,single,Parity_0,0
+male,single,Parity_1,0.549773223
+male,single,Parity_2,0.330105584
+male,single,Parity_3+,0.173430481
+female,cohab,age_16_19,0.147420368
+female,cohab,age_20_24,0
+female,cohab,age_25_29,0.045025946
+female,cohab,age_30_34,0.045439796
+female,cohab,age_35_39,-0.166435412
+female,cohab,age_40_44,-0.48390882
+female,cohab,age_45_49,-0.78166216
+female,cohab,"M#, Native",0.032435244
+female,cohab,"M#1G, EW",0.147943167
+female,cohab,"M#1G, India",1.00296812
+female,cohab,"M#1G, Pakistan",0.597845351
+female,cohab,"M#1G, Bangladesh",1.482908917
+female,cohab,"M#1G, Caribbean",-0.04018043
+female,cohab,"M#1G, African",0.223983199
+female,cohab,"M#1G, Other",0.314548662
+female,cohab,"M#2G, EW",-0.112189558
+female,cohab,"M#2G, India",-0.071187242
+female,cohab,"M#2G, Pakistan",-0.232206874
+female,cohab,"M#2G, Bangladesh",1.361742926
+female,cohab,"M#2G, Caribbean",-0.332479458
+female,cohab,"M#2G, African",-0.000466209
+female,cohab,"M#2G, Other",-0.132485426
+female,cohab,"Sep#, Native",0
+female,cohab,"Sep#1G, EW",0.064795676
+female,cohab,"Sep#1G, India",0.155681508
+female,cohab,"Sep#1G, Pakistan",-0.249432472
+female,cohab,"Sep#1G, Bangladesh",-1.16E+01
+female,cohab,"Sep#1G, Caribbean",0.20098301
+female,cohab,"Sep#1G, African",-0.027328341
+female,cohab,"Sep#1G, Other",0.104967038
+female,cohab,"Sep#2G, EW",-0.011089664
+female,cohab,"Sep#2G, India",0.427763312
+female,cohab,"Sep#2G, Pakistan",0.68402722
+female,cohab,"Sep#2G, Bangladesh",0.263568923
+female,cohab,"Sep#2G, Caribbean",0.438215575
+female,cohab,"Sep#2G, African",0.392551418
+female,cohab,"Sep#2G, Other",0.221683286
+female,cohab,"B#, Native",0.081147635
+female,cohab,"B#1G, EW",-0.47341745
+female,cohab,"B#1G, India",0.309820939
+female,cohab,"B#1G, Pakistan",0.261416123
+female,cohab,"B#1G, Bangladesh",0.384271434
+female,cohab,"B#1G, Caribbean",0.452271083
+female,cohab,"B#1G, African",0.312527844
+female,cohab,"B#1G, Other",-0.092721394
+female,cohab,"B#2G, EW",-0.122885519
+female,cohab,"B#2G, India",-0.825034212
+female,cohab,"B#2G, Pakistan",0.460918736
+female,cohab,"B#2G, Bangladesh",0.263568923
+female,cohab,"B#2G, Caribbean",0.453027853
+female,cohab,"B#2G, African",-0.351893962
+female,cohab,"B#2G, Other",-0.120062168
+female,cohab,constant,-4.677224883
+female,cohab,cohort_80_03,0
+female,cohab,Parity_0,0
+female,cohab,Parity_1,0.065322276
+female,cohab,Parity_2,-0.249868759
+female,cohab,Parity_3+,-0.26130139
+male,cohab,age_16_19,0.073531092
+male,cohab,age_20_24,0
+male,cohab,age_25_29,-0.030983778
+male,cohab,age_30_34,0.029292747
+male,cohab,age_35_39,-0.135265696
+male,cohab,age_40_44,-0.442747749
+male,cohab,age_45_49,-1.02954566
+male,cohab,"M#, Native",-0.003185769
+male,cohab,"M#1G, EW",0.287448545
+male,cohab,"M#1G, India",0.91849071
+male,cohab,"M#1G, Pakistan",1.172327636
+male,cohab,"M#1G, Bangladesh",0.598287999
+male,cohab,"M#1G, Caribbean",0.062930667
+male,cohab,"M#1G, African",0.556240383
+male,cohab,"M#1G, Other",0.239568717
+male,cohab,"M#2G, EW",0.006381594
+male,cohab,"M#2G, India",-0.027621999
+male,cohab,"M#2G, Pakistan",0.558574675
+male,cohab,"M#2G, Bangladesh",-0.347722706
+male,cohab,"M#2G, Caribbean",-1.013426277
+male,cohab,"M#2G, African",0.102724444
+male,cohab,"M#2G, Other",-0.105088108
+male,cohab,"Sep#, Native",0
+male,cohab,"Sep#1G, EW",0.098215047
+male,cohab,"Sep#1G, India",-0.123157955
+male,cohab,"Sep#1G, Pakistan",-1.39E+01
+male,cohab,"Sep#1G, Bangladesh",0.598287999
+male,cohab,"Sep#1G, Caribbean",-1.323190744
+male,cohab,"Sep#1G, African",-0.031542268
+male,cohab,"Sep#1G, Other",0.203465604
+male,cohab,"Sep#2G, EW",-4.56E-02
+male,cohab,"Sep#2G, India",0.573151762
+male,cohab,"Sep#2G, Pakistan",0.183872853
+male,cohab,"Sep#2G, Bangladesh",0.568575529
+male,cohab,"Sep#2G, Caribbean",0.462388457
+male,cohab,"Sep#2G, African",0.167261217
+male,cohab,"Sep#2G, Other",0.381913944
+male,cohab,"B#, Native",-0.096074762
+male,cohab,"B#1G, EW",-0.530405396
+male,cohab,"B#1G, India",-0.528636466
+male,cohab,"B#1G, Pakistan",-1.39E+01
+male,cohab,"B#1G, Bangladesh",0.821516209
+male,cohab,"B#1G, Caribbean",0.381373215
+male,cohab,"B#1G, African",0.093619661
+male,cohab,"B#1G, Other",-0.290348959
+male,cohab,"B#2G, EW",-0.03233323
+male,cohab,"B#2G, India",-0.663619835
+male,cohab,"B#2G, Pakistan",-0.134574451
+male,cohab,"B#2G, Bangladesh",0.75096174
+male,cohab,"B#2G, Caribbean",0.202886965
+male,cohab,"B#2G, African",-0.408111858
+male,cohab,"B#2G, Other",-0.230254902
+male,cohab,constant,-4.622041713
+male,cohab,cohort_80_03,0
+male,cohab,Parity_0,0
+male,cohab,Parity_1,0.004481941
+male,cohab,Parity_2,-0.291979024
+male,cohab,Parity_3+,-0.422297634
+female,married,age_16_19,-0.184055659
+female,married,age_20_24,0
+female,married,age_25_29,-0.075065846
+female,married,age_30_34,-0.102241164
+female,married,age_35_39,-0.563107828
+female,married,age_40_44,-1.630743268
+female,married,age_45_49,-2.947830123
+female,married,"Sep#, Native",-1.554709699
+female,married,"Sep#1G, EW",-2.013930993
+female,married,"Sep#1G, India",-2.883443414
+female,married,"Sep#1G, Pakistan",-2.320071086
+female,married,"Sep#1G, Bangladesh",-2.906107315
+female,married,"Sep#1G, Caribbean",-1.531173092
+female,married,"Sep#1G, African",-2.042390874
+female,married,"Sep#1G, Other",-2.076205982
+female,married,"Sep#2G, EW",-1.593297375
+female,married,"Sep#2G, India",-2.226877615
+female,married,"Sep#2G, Pakistan",-1.952176844
+female,married,"Sep#2G, Bangladesh",-2.492116176
+female,married,"Sep#2G, Caribbean",-0.729110166
+female,married,"Sep#2G, African",-1.609839993
+female,married,"Sep#2G, Other",-1.937370615
+female,married,"B#, Native",0
+female,married,"B#1G, EW",0.007486903
+female,married,"B#1G, India",-0.103072579
+female,married,"B#1G, Pakistan",0.346087999
+female,married,"B#1G, Bangladesh",2.52E-01
+female,married,"B#1G, Caribbean",-0.10405681
+female,married,"B#1G, African",0.143272296
+female,married,"B#1G, Other",0.10076437
+female,married,"B#2G, EW",0.016140046
+female,married,"B#2G, India",6.08E-02
+female,married,"B#2G, Pakistan",0.252268085
+female,married,"B#2G, Bangladesh",0.215934428
+female,married,"B#2G, Caribbean",0.238474234
+female,married,"B#2G, African",0.089546328
+female,married,"B#2G, Other",0.184890754
+female,married,constant,-3.856186298
+female,married,cohort_80_03,0
+female,married,Parity_0,0
+female,married,Parity_1,-0.116252058
+female,married,Parity_2,-0.926187292
+female,married,Parity_3+,-1.01E+00
+male,married,age_16_19,-0.418343986
+male,married,age_20_24,0
+male,married,age_25_29,0.054216368
+male,married,age_30_34,0.049606022
+male,married,age_35_39,-0.20603536
+male,married,age_40_44,-0.828610495
+male,married,age_45_49,-1.533488957
+male,married,"Sep#, Native",-1.935653627
+male,married,"Sep#1G, EW",-2.349473367
+male,married,"Sep#1G, India",-3.256800978
+male,married,"Sep#1G, Pakistan",-2.686714925
+male,married,"Sep#1G, Bangladesh",-3.280804421
+male,married,"Sep#1G, Caribbean",-1.496809919
+male,married,"Sep#1G, African",-2.3413727
+male,married,"Sep#1G, Other",-2.881350571
+male,married,"Sep#2G, EW",-2.337750201
+male,married,"Sep#2G, India",-3.150642575
+male,married,"Sep#2G, Pakistan",-2.771357481
+male,married,"Sep#2G, Bangladesh",-3.12503263
+male,married,"Sep#2G, Caribbean",-1.384397362
+male,married,"Sep#2G, African",-2.615397641
+male,married,"Sep#2G, Other",-1.877423899
+male,married,"B#, Native",0
+male,married,"B#1G, EW",-0.033929345
+male,married,"B#1G, India",-0.023485027
+male,married,"B#1G, Pakistan",0.408108279
+male,married,"B#1G, Bangladesh",0.323332719
+male,married,"B#1G, Caribbean",-2.73E-01
+male,married,"B#1G, African",0.197601718
+male,married,"B#1G, Other",0.094837341
+male,married,"B#2G, EW",0.104596024
+male,married,"B#2G, India",0.085230459
+male,married,"B#2G, Pakistan",3.96E-01
+male,married,"B#2G, Bangladesh",0.276163993
+male,married,"B#2G, Caribbean",0.156047736
+male,married,"B#2G, African",0.198012803
+male,married,"B#2G, Other",-0.058265226
+male,married,constant,-4.048977393
+male,married,cohort_80_03,0
+male,married,Parity_0,0
+male,married,Parity_1,-0.090762805
+male,married,Parity_2,-0.937504154
+male,married,Parity_3+,-1.088525234
