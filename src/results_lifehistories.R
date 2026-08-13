@@ -159,6 +159,11 @@ life_histories_by_sex <-
   plot_layout(guides = "collect") &
   theme(legend.position = "right")
 
-life_histories_by_sex
-
-
+ggsave(
+  filename = file.path(project_root, "figures", "life_histories_by_sex.svg"),
+  plot = life_histories_by_sex,
+  width = 1500,
+  height = 1500,
+  units = "px",
+  dpi = 120
+)

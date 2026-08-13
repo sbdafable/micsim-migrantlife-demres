@@ -51,13 +51,11 @@ returns a combined male/female plot in an interactive R session.
 By default the current working directory is treated as the repository root.
 For another working directory, set the project path explicitly:
   
-  ```sh
-MIGRANTLIFE_PROJECT=/path/to/repository Rscript /path/to/repository/src/main.R
-```
+To use a different repository location or a different fastMicSim folder,
+set these before sourcing `main.R`
 
-Set `MICCORE_PATH` when the fastMicSim helper scripts and MicCore JAR live
-outside the repository's `fastMicSim-master/` directory:
-
-```sh
-MICCORE_PATH=/path/to/fastMicSim-master Rscript src/main.R
+```r
+Sys.setenv(MIGRANTLIFE_PROJECT = "C:/path/to/repository")
+Sys.setenv(MICCORE_PATH = "C:/path/to/fastMicSim-master")
+source("src/main.R")
 ```
